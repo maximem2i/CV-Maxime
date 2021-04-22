@@ -1,0 +1,36 @@
+* {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.header {
+    margin-top: 20px;
+    display: flex;
+}
+
+.photo {
+    flex-basis: 25%;
+}
+
+.photo img {
+    width: 120px;
+    border-radius: 5%;
+}
+
+.presentation h1 {
+    margin-bottom: 20px;
+}
+
+hr {
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+h2 {
+    padding: 5px;
+    color: #32AFB2;
+}
